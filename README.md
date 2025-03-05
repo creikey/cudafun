@@ -9,4 +9,4 @@ Cool tech I've always wanted to be able to implement since I was young. This rep
 - [ ] ASH paper algorithm
 - [ ] ORB slam
 - [ ] DTAM
-- [ ] Fast 2d rigidbody physics from scratch using something like XPBD (extended position based dynamics)
+- [ ] Fast 2d rigidbody physics from scratch using something like XPBD (extended position based dynamics) implement on cpu then implement with cuda

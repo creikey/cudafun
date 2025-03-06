@@ -6,6 +6,7 @@ Cool tech I've always wanted to be able to implement since I was young. This rep
 - [ ] convnets
 - [ ] transformers
 - [ ] gaussian splat renderer
+- [ ] gaussian splat learner
 - [ ] ASH paper algorithm
 - [ ] ORB slam
 - [ ] DTAM

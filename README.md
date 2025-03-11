@@ -16,7 +16,7 @@ Cool tech I've always wanted to be able to implement since I was young. This rep
 ## reference material and progress through it (roughly in the order and grouped by what is necessary to implement the above software)
 - (cudabyex) For cuda in general [Cuda by example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf) - 0%
 - gaussian splatting paper - 0%
-- (linearalg) linear algebra done right (I own this in print) - (1/31) = 3.22%
+- (linearalg) linear algebra done right (I own this in print) - (2/31) = 6.45%
 - (parallelcomp) For parallel computing theory [Programming Massively Parallel Processors: A hands-on approach](http://gpu.di.unimi.it/books/PMPP-3rd-Edition.pdf) - 0%
 - (dlbook) For perceptron, convnets, and RNNs [deep learning book](https://www.deeplearningbook.org) - 0%
 - (mvgeobook) For orb slam [Multiple View Geometry in Computer Vision](https://www.r-5.org/files/books/computers/algo-list/image-processing/vision/Richard_Hartley_Andrew_Zisserman-Multiple_View_Geometry_in_Computer_Vision-EN.pdf) - 0%

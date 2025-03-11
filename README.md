@@ -6,7 +6,9 @@ Cool tech I've always wanted to be able to implement since I was young. This rep
 - [ ] normal perceptron neural network
 - [ ] convnets
 - [ ] ORB slam
+- [ ] webgpu port of gaussian splat renderer
 - [ ] DTAM
+- [ ] webpu port of dtam
 - [ ] transformers
 - [ ] gaussian splat learner
 - [ ] ASH paper algorithm

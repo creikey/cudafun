@@ -16,7 +16,7 @@ Cool tech I've always wanted to be able to implement since I was young. This rep
 - [ ] Cool looking 3d ocean with a good spectrum and fast inverse fourier transform, good shading. Probably raymarch it?
 
 ## reference material and progress through it (roughly in the order and grouped by what is necessary to implement the above software)
-- (cudabyex) For cuda in general [Cuda by example](https://edoras.sdsu.edu/~mthomas/docs/cuda/cuda_by_example.book.pdf) - 0%
+- (cudaguide) For cuda in general [Official Cuda Guide](https://docs.nvidia.com/cuda/cuda-c-programming-guide/index.html) - 0%
 - gaussian splatting paper - 0%
 - (linearalg) linear algebra done right (I own this in print) - (2/31) = 6.45%
 - (parallelcomp) For parallel computing theory [Programming Massively Parallel Processors: A hands-on approach](http://gpu.di.unimi.it/books/PMPP-3rd-Edition.pdf) - 0%

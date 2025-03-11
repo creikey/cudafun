@@ -12,6 +12,7 @@ Cool tech I've always wanted to be able to implement since I was young. This rep
 - [ ] transformers
 - [ ] gaussian splat learner
 - [ ] ASH paper algorithm
+- [ ] webgpu port of ASH rendering and training (train live on webcam in browser)
 - [ ] Fast 2d rigidbody physics from scratch using something like XPBD (extended position based dynamics) implemented on cpu then implemented with cuda
 - [ ] Cool looking 3d ocean with a good spectrum and fast inverse fourier transform, good shading. Probably raymarch it?
 
